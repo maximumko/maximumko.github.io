@@ -5,7 +5,7 @@ title: Yi Zhang
 
 # Yi Zhang
 
-## Ph.D. Candidate in Biomedical Engineering & Computational Biology
+## Ph.D. Candidate in Biomedical Engineering at OHSU
 
 Welcome to my academic portfolio. I am a Ph.D. candidate at Oregon Health & Science University focusing on alternative polyadenylation mechanisms and their role in cancer biology.
 
