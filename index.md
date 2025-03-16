@@ -3,15 +3,16 @@ layout: default
 title: Yi Zhang
 ---
 
-<img src="assets/image/73ac5cd055dbd6abd29f4d6987841c40.jpg" alt="Yi Zhang" style="float: left; width: 200px; margin-right: 20px; margin-bottom: 10px; border-radius: 5px;">
-
-# Yi Zhang
-
-## Ph.D. Candidate in Biomedical Engineering at OHSU
-
-Welcome to my academic portfolio. I am a Ph.D. candidate at Oregon Health & Science University focusing on alternative polyadenylation mechanisms and their role in cancer biology.
-
-<div style="clear: both;"></div>
+<div style="display: flex; flex-direction: row-reverse; margin-bottom: 30px;">
+  <div style="flex: 1; padding-left: 20px;">
+    <h1>Yi Zhang</h1>
+    <h2>Ph.D. Candidate in Biomedical Engineering at OHSU</h2>
+    <p>Welcome to my academic portfolio. I am a Ph.D. candidate at Oregon Health & Science University focusing on alternative polyadenylation mechanisms and their role in cancer biology.</p>
+  </div>
+  <div style="flex: 0 0 250px;">
+    <img src="assets/image/73ac5cd055dbd6abd29f4d6987841c40.jpg" alt="Yi Zhang" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+</div>
 
 ## About Me
 
