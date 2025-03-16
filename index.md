@@ -3,6 +3,13 @@ layout: default
 title: Yi Zhang
 ---
 
+<div class="profile-container">
+  <img src="assets/images/73ac5cd055dbd6abd29f4d6987841c40.jpg" alt="Yi Zhang" class="profile-image">
+  <div class="profile-content">
+    <h1>Yi Zhang</h1>
+  </div>
+</div>
+
 # Yi Zhang
 
 ## Ph.D. Candidate in Biomedical Engineering at OHSU
