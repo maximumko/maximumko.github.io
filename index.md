@@ -36,7 +36,7 @@ Currently working in the [Xia Lab](https://xiazlab.org/), I am investigating APA
 
 - **B.S.** (2017)  
   East China Normal University, Shanghai, CN  
-  Major: Biotechnology
+  Major: Biotechnology  
   Advisor: Dr. Xiyun Ye 
 
 ## Publications
