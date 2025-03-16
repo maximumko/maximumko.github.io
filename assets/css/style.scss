@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.profile-image {
+  width: 200px;
+  border-radius: 5px;
+  margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.profile-content {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+  }
+  
+  .profile-image {
+    margin-bottom: 20px;
+    margin-right: 0;
+  }
+}
