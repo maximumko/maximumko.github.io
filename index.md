@@ -45,7 +45,9 @@ Currently working in the [Xia Lab](https://xiazlab.org/), I am investigating APA
 
 ### Journal Articles
 
-1. **Zhang Y**, Liu L, Qiu Q, Zhou Q, Ding J, Lu Y, Liu P. (2021). "Alternative polyadenylation: methods, mechanism, function, and role in cancer." *Journal of Experimental & Clinical Cancer Research*. DOI: [10.1186/s13046-021-01852-7](https://doi.org/10.1186/s13046-021-01852-7)
+1. Hu RC, **Zhang Y**, Nitschke L, Johnson SJ, Hurley AE, Lagor WR, Xia Z, Cooper TA. (2025). "MBNL overexpression rescues cardiac phenotypes in a myotonic dystrophy type 1 heart mouse model." *J Clin Invest*. Feb 11:e186416. DOI: [10.1172/JCI186416](https://doi.org/10.1172/JCI186416)
+
+2. **Zhang Y**, Liu L, Qiu Q, Zhou Q, Ding J, Lu Y, Liu P. (2021). "Alternative polyadenylation: methods, mechanism, function, and role in cancer." *Journal of Experimental & Clinical Cancer Research*. DOI: [10.1186/s13046-021-01852-7](https://doi.org/10.1186/s13046-021-01852-7)
 
 ## Current Research Projects
 
